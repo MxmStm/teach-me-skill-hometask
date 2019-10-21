@@ -1,6 +1,6 @@
 package main.java.com.teachmeskill.homework.hometask1_3;
 
-public class Task4 {
+public class RoundNum {
     public static void main(String[] args) {
         double num1, num2;
 

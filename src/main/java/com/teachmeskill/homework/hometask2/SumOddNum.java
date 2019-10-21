@@ -1,6 +1,6 @@
 package main.java.com.teachmeskill.homework.hometask2;
 
-public class Task7 {
+public class SumOddNum {
     public static void main(String[] args) {
         int i, n;
 

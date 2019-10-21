@@ -1,6 +1,6 @@
 package main.java.com.teachmeskill.homework.hometask1_3;
 
-public class Task3 {
+public class AbsValue {
     public static void main(String[] args) {
         int num1, num2, num3, num4;
 

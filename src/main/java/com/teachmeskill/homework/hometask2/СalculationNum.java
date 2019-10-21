@@ -1,6 +1,6 @@
 package main.java.com.teachmeskill.homework.hometask2;
 
-public class Task3 {
+public class СalculationNum {
     public static void main(String[] args) {
 
         int x = 1;
