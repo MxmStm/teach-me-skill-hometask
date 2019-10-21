@@ -1,6 +1,6 @@
 package main.java.com.teachmeskill.homework.hometask1_3;
 
-public class Task2_1 {
+public class MinNumVersion1 {
     public static void main(String[] args) {
         int value1, value2;
 
