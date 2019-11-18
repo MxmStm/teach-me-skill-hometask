@@ -1,13 +1,14 @@
 package main.java.com.teachmeskill.homework.hometask_interfaces;
 
 public class MagazineAndBookApp {
+
     static Printable[] printable = {
-            new BookImpl("Сияние"),
-            new MagazineImpl("CHIP"),
-            new BookImpl("Доктор Сон"),
-            new MagazineImpl("Охота и рыбалка"),
-            new MagazineImpl("Популярная механика"),
-            new BookImpl("Три товарища")
+            new Book("Сияние"),
+            new Magazine("CHIP"),
+            new Book("Доктор Сон"),
+            new Magazine("Охота и рыбалка"),
+            new Magazine("Популярная механика"),
+            new Book("Три товарища")
     };
 
     static void printMagazineAndBook(Printable[] printable) {
