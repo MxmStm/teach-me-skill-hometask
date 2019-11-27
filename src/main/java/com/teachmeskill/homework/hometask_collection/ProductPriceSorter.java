@@ -2,7 +2,7 @@ package main.java.com.teachmeskill.homework.hometask_collection;
 
 import java.util.Comparator;
 
-public class ProductSortPrice implements Comparator<Product> {
+public class ProductPriceSorter implements Comparator<Product> {
 
     @Override
     public int compare(Product o1, Product o2) {

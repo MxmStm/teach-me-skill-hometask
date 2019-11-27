@@ -3,7 +3,7 @@ package main.java.com.teachmeskill.homework.hometask_collection;
 import java.util.Collections;
 import java.util.List;
 
-public class ScoreAdd {
+public class ShopApp {
     public static void main(String[] args) {
 
         Shop shop = new Shop();
@@ -25,8 +25,8 @@ public class ScoreAdd {
         System.out.println("===========================================================================================");
         System.out.println("*****Список товаров (сортировка по цене)*****");
 
-        ProductSortPrice productSortPrice = new ProductSortPrice();
-        Collections.sort(listProduct, productSortPrice);
+        ProductPriceSorter productPriceSorter = new ProductPriceSorter();
+        Collections.sort(listProduct, productPriceSorter);
         shop.printListProduct();
 
         System.out.println("===========================================================================================");
